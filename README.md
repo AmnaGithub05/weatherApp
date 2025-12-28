@@ -29,16 +29,8 @@ npm install
 npm run dev
 ```
 
-
-
-## Live Demo
-
-[Add your deployed link here]
-
 ## Screenshots
+<img width="436" height="376" alt="Screenshot 2025-12-28 200018" src="https://github.com/user-attachments/assets/a9157890-7249-4125-ba30-6079cf6bedbc" />
 
-*Add screenshots here*
-
----
 
 Built with React & Tailwind CSS | [Your Portfolio](your-link) | [Fiverr Profile](your-fiverr-link)
